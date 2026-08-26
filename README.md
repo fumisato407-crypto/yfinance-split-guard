@@ -42,7 +42,7 @@ The scanner flags daily close-to-close ratios outside `[0.55, 1.8]`, snaps each 
 
 ## Article
 
-The write-up behind this repo: *When yfinance Silently Breaks Your 200-Day Moving Average* (dev.to — link coming once published; profile: [@fumisato407-crypto](https://dev.to/fumisato407-crypto)).
+The write-up behind this repo: [When yfinance Silently Breaks Your 200-Day Moving Average: Two Split-Adjustment Bugs and How to Detect Them](https://dev.to/fumisato407crypto/when-yfinance-silently-breaks-your-200-day-moving-average-two-split-adjustment-bugs-and-how-to-34d0) (dev.to).
 
 ## License
 
